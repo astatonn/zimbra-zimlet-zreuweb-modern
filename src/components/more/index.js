@@ -1,5 +1,5 @@
 import { createElement, Component, render } from 'preact';
-import { useSelector } from 'from-redux';
+import { useSelector } from 'react-redux';
 import { compose } from 'recompose';
 import { withIntl } from '../../enhancers';
 import { useState, useCallback, useMemo, useContext } from 'preact/hooks';
