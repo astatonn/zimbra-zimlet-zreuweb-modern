@@ -9,7 +9,7 @@ import style from './style';
 import { Button } from '@zimbra-client/blocks';
 import {useAccountInfo} from '@zimbra-client/hooks/graphql';
 
-import isEqual from 'loadsh/isEqual';
+import isEqual from 'lodash/isEqual';
 import get from 'lodash/get';
 
 import {
