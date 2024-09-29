@@ -2,6 +2,10 @@
 	"zimbra-zimlet-appointment-location": {
 		"title": "Faça disso uma reunião ZReu Web",
 		"dialInText": ""
-      }
+      },
+	  "zimlet": {
+		"label": "zimbra-zreuweb-modern",
+		"description": "Integração com ZReu Web"
+	  }
 }
 
