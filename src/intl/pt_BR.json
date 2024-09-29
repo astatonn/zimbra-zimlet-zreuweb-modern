@@ -1,0 +1,8 @@
+{
+	"zimbra-zimlet-appointment-location": {
+		"title": "Faça disso uma reunião ZReu Web",
+		"dialInText": "",
+		"notSupported": "O zimlet ZReu Web não é compatível com esse servidor, por favor, contacte um administrador"
+      }
+}
+
